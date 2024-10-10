@@ -52,3 +52,8 @@ li {
     padding-bottom: 15px;
     margin-bottom: 50px;
 }
+
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
