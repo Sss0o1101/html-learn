@@ -74,3 +74,11 @@ li {
     float: left;
     font-size: 32px;
 }
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
+}
