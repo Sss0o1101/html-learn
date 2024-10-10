@@ -1,3 +1,9 @@
 @charset "UTF-8";
 
+body {
+    font-family: "Avenir Next";
+}
 
+li {
+    list-style: none;
+}
