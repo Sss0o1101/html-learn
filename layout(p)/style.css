@@ -63,6 +63,10 @@ li {
     margin-top: 30px;
 }
 
+.contact-form {
+    padding-top: 100px;
+}
+
 .contact-submit {
     background-color: #dee7ec;
     color: #889eab;
