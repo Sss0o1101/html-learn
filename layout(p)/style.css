@@ -8,7 +8,7 @@ li {
     list-style: none;
 }
 
-.header {
+header {
     background-color: #26d0c9;
     color: #fff;
     height: 90px;
@@ -76,11 +76,17 @@ input,textarea {
 }
 
 .contact-submit {
-    background-color: #dee7ec;
-    color: #889eab;
+    background-color: #63abbd;
+    color: #12222b;
+    border-radius: 8px;
 }
 
-.footer {
+.contact-submit:hover {
+    background-color: #865899;
+    transition: all 1.3s ease;
+}
+
+footer {
     background-color: #2f5167;
     color: #fff;
     height: 120px;
