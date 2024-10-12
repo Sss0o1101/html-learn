@@ -61,3 +61,7 @@ a {
 .btn-wrapper {
     margin: 20px 0;
 }
+
+.btn-wrapper p {
+    margin: 10px 0;
+}
