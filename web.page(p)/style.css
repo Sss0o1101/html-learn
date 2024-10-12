@@ -44,3 +44,7 @@ a {
 .btn:hover {
     opacity: 1;
 }
+
+.signup {
+    background-color: #239b76;
+}
