@@ -75,3 +75,9 @@ a {
 .fa {
     margin-right: 10px;
 }
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+}
