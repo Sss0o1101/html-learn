@@ -162,4 +162,8 @@ header {
     text-align: center;
 }
 
-
+.message {
+    padding: 15px 40px;
+    background-color: #5dca88;
+    box-shadow: 0px 7px #1a7940;
+}
