@@ -115,6 +115,12 @@ header {
     display: block;
 }
 
+.header-right a:active {
+    background-color: rgba(48, 45, 45, 0.3);
+    position: relative;
+    bottom: 7px;
+}
+
 .lesson-wrapper {
     height: 500px;
     padding-bottom: 80px;
@@ -170,4 +176,10 @@ header {
     padding: 15px 40px;
     background-color: #5dca88;
     box-shadow: 0px 7px #1a7940;
+}
+
+.message:active {
+    box-shadow: none;
+    position: relative;
+    top: 7px;
 }
