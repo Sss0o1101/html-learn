@@ -183,3 +183,7 @@ header {
     position: relative;
     top: 7px;
 }
+
+footer img {
+    width: 125px;
+}
