@@ -34,3 +34,19 @@ li {
     float: left;
     padding: 20px 40px;
 }
+
+.main {
+    padding: 100px 80px;
+}
+
+.main h1 {
+    font-size: 140px;
+}
+
+.main h2 {
+    font-size: 60px;
+}
+
+.main span {
+    color: #ff4a4a;
+}
