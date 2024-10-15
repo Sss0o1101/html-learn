@@ -140,9 +140,3 @@ header {
     position: relative;
 }
 
-.lesson-icon p {
-    position: absolute;
-    top: 90px;
-    width: 100%;
-    color: #fff;
-}
