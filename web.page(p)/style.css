@@ -135,3 +135,7 @@ header {
     float: left;
     width: 25%;
 }
+
+.lesson-icon {
+    position: relative;
+}
